@@ -3,4 +3,4 @@
 ---
 
 
-This is a new note
+This is a new note. See [[src/site/notes/second page\|second page]] for a second page
